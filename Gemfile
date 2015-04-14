@@ -51,3 +51,6 @@ group :development, :test do
   # Bower to manage frontend assets
   gem 'bower-rails',    '~> 0.9.2'
 end
+
+ruby '2.2.1'
+
